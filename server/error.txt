@@ -1,0 +1,11 @@
+PS E:\Programming\Portfolio_revision\Fullstack Responsive MERN\server> npm i -g nodemon
+
+added 32 packages in 1s
+
+3 packages are looking for funding
+  run `npm fund` for details
+PS E:\Programming\Portfolio_revision\Fullstack Responsive MERN\server> npm i express body-parser bcrypt cors dotenv gridfs-stream multer-gridfs-storage helmet morgan jsonwebtoken mongoose
+npm WARN deprecated multer@1.4.4: Multer 1.x is affected by CVE-2022-24434. This is fixed in v1.4.4-lts.1 which drops support for versions of Node.js before 6. Please upgrade to at least Node.js 6 and version 1.4.4-lts.1 of Multer. If you need support for older versions of Node.js, we are open to accepting patches that would fix the CVE on the main 1.x release line, whilst maintaining compatibility with Node.js 0.10.
+npm WARN deprecated @types/bson@4.2.0: This is a stub types definition. bson provides its own type definitions, so you do not need this installed.
+
+added 202 packages in 12s
